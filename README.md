@@ -51,7 +51,3 @@ Tailored CVs and cover letters are saved in the `outputs/` folder.
 
 - Never commit your `.env` file or credential JSON files.
 - Review all generated documents before sending them to employers.
-
-## Credits
-
-Based on [AIwithhassan/AI-Job-Hunt-Agent](https://github.com/AIwithhassan/AI-Job-Hunt-Agent).
